@@ -28,9 +28,9 @@ The original data set is the 2008 Summer Olympic Medalists, not by country but b
    8. Analyze data
 
 ## Visualizations 
-![Pie Chart](Pie Chart.png)
-![Bar Chart](Bar Chart.png)
-![Horizontal Bar Chart](Horizontal Bar Chart.png)
+![Pie Chart](Pie_Chart.png)
+![Bar Chart](Bar_Chart.png)
+![Horizontal Bar Chart](Horizontal_Bar_Chart.png)
 ## References
 The following links helped me thoughout this process. 
 
