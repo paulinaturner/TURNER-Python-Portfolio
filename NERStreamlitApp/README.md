@@ -1,4 +1,4 @@
-# Turner-NERApp-Project
+# Turner-NERApp-Project README
 
 This repository showcases a Streamlit web application that demonstrates Named Entity Recognition (NER) using spaCy. The app allows users to interactively explore NER by uploading or typing their own text and creating custom entity patterns in real time.
 
