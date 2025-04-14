@@ -18,6 +18,26 @@ This Tidy Data Project is a strong addition to my coding portfolio as it demonst
 
    This project reinforces my ability to work with messy datasets and transform them into structured, actionable insights, making me 
    a strong candidate for roles in data analysis, business intelligence, and data science. 
+   
+## Tidy Data Project
+[Link to Project Page on GitHub](https://github.com/paulinaturner/TidyData-Project)
+
+### Description:
+This project applies tidy data principles to clean, reshape, and visualize a real-world dataset using Python. The process involves transforming raw data into a structured format where each variable has its own column, each observation its own row, and each observational unit its own table. The notebook includes both the data wrangling steps and basic exploratory visualizations to highlight insights gained from the cleaned dataset.
+
+### How This Project Enhances My Coding Portfolio
+This project highlights my data wrangling and transformation skills using the Pandas library. It showcases my ability to:
+- Understand and implement tidy data principles
+- Clean and reshape messy datasets into usable formats
+- Create insightful visualizations
+- Document and communicate data-cleaning processes clearly
+
+#### Key Skills Showcased in This Project
+- Data Cleaning with Pandas  
+- Tidy Data Principles  
+- Exploratory Data Analysis  
+- Visualization using Matplotlib/Seaborn  
+- Markdown Documentation in Jupyter Notebooks
 
 ## NER Streamlit App
 [Link to Project Page on GitHub](https://github.com/paulinaturner/TURNER-Python-Portfolio/blob/07f37726645a6b28a97a4120f77daf6cc2ad9734/NERStreamlitApp/NERStreamlitApp.py)
