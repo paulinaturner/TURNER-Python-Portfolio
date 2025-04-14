@@ -1,10 +1,10 @@
-# Turner-NERApp-Project
+# Turner-NERApp-Project README
 
 This repository showcases a Streamlit web application that demonstrates Named Entity Recognition (NER) using spaCy. The app allows users to interactively explore NER by uploading or typing their own text and creating custom entity patterns in real time.
 
 ## NER Streamlit App
 [Link to Deployed App](https://share.streamlit.io/your-app-url)  
-[Link to Project Page on GitHub](https://github.com/paulinaturner/Turner-NERApp-Project)
+[Link to Project Page on GitHub](https://github.com/paulinaturner/TURNER-Python-Portfolio/blob/main/NERStreamlitApp/NERStreamlitApp.py)
 
 ### Description:
 This app highlights spaCy’s powerful Named Entity Recognition functionality, specifically through the use of the `EntityRuler` pipeline component. Users can define custom entities by specifying both labels (e.g., BRAND, SCHOOL) and matching patterns (e.g., “Purely Pressed”, “Notre Dame”), and then immediately see those entities recognized and visualized in a user-friendly interface.
