@@ -18,3 +18,24 @@ This Tidy Data Project is a strong addition to my coding portfolio as it demonst
 
    This project reinforces my ability to work with messy datasets and transform them into structured, actionable insights, making me 
    a strong candidate for roles in data analysis, business intelligence, and data science. 
+
+## NER Streamlit App
+[Link to Project Page on GitHub](https://github.com/paulinaturner/Turner-NERApp-Project)
+
+### Description:
+This Streamlit application is a custom Named Entity Recognition (NER) tool built using spaCy. The app allows users to input or upload text, define their own entity patterns (like names of brands, schools, etc.), and see those entities highlighted in real time. It leverages spaCy’s `EntityRuler` component to apply user-defined rules and visualize extracted named entities directly in the browser.
+
+### How This Project Enhances My Coding Portfolio
+This project demonstrates my ability to integrate natural language processing techniques into an interactive front-end experience using Streamlit. It complements my portfolio by showcasing skills in:
+
+- Web app development
+- NLP customization with spaCy
+- Real-time user input handling
+- Pattern-based matching and visualization
+
+#### Key Skills Showcased in This Project
+- spaCy NLP  
+- Streamlit Development  
+- Pattern Matching with EntityRuler  
+- Interactive UI/UX Design  
+- Requirements Management and App Deployment
