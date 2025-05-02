@@ -33,6 +33,7 @@ User inputs:
 - Product type
 - Age, average order value, purchase frequency, customer lifespan
 - Retention rate, discount rate, and optional acquisition cost
+  
 App outputs:
 - Calculated Customer Lifetime Value
 - Investment recommendation (based on CLV vs CAC)
