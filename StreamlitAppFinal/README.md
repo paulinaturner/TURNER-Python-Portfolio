@@ -28,12 +28,12 @@ Ensure you have the following packages installed:
 
 ### Single Customer CLV Calculation
 
-- User inputs:
+User inputs:
 - Customer name
 - Product type
 - Age, average order value, purchase frequency, customer lifespan
 - Retention rate, discount rate, and optional acquisition cost
-- App outputs:
+App outputs:
 - Calculated Customer Lifetime Value
 - Investment recommendation (based on CLV vs CAC)
 - Year-by-year CLV breakdown chart
@@ -44,7 +44,7 @@ Ensure you have the following packages installed:
 - Upload a `.csv` file containing the following columns:
 - AOV, Frequency, Retention, Lifespan, Discount
 - App calculates CLV for each row
-- Returns a data table with CLV values and option to download results
+- Returns a data table with CLV values and an option to download results
 
 ### Customer CLV Comparison
 
