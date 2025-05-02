@@ -22,6 +22,8 @@ Ensure you have the following packages installed:
 1. Clone this repository or download the files.
 2. Navigate to the project folder:
 
+[Link to deployed app](https://finalappeoc.streamlit.app/)
+
 
 
 ## App Features
