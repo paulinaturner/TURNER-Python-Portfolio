@@ -25,3 +25,17 @@ This project reflects my ability to build and deploy interactive web apps using 
 2. Ensure you have Python and Streamlit installed. If not, run:
    ```bash
    pip install streamlit pandas
+
+3. Navigate to the project folder in your terminal:
+```bash
+Copy
+Edit
+cd basic-streamlit-app
+
+4. Launch the app using:
+
+```bash
+Copy
+Edit
+streamlit run main.py
+
