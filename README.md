@@ -18,26 +18,6 @@ This Tidy Data Project is a strong addition to my coding portfolio as it demonst
 
    This project reinforces my ability to work with messy datasets and transform them into structured, actionable insights, making me 
    a strong candidate for roles in data analysis, business intelligence, and data science. 
-   
-## Tidy Data Project
-[Link to Project Page on GitHub](https://github.com/paulinaturner/TidyData-Project)
-
-### Description:
-This project applies tidy data principles to clean, reshape, and visualize a real-world dataset using Python. The process involves transforming raw data into a structured format where each variable has its own column, each observation its own row, and each observational unit its own table. The notebook includes both the data wrangling steps and basic exploratory visualizations to highlight insights gained from the cleaned dataset.
-
-### How This Project Enhances My Coding Portfolio
-This project highlights my data wrangling and transformation skills using the Pandas library. It showcases my ability to:
-- Understand and implement tidy data principles
-- Clean and reshape messy datasets into usable formats
-- Create insightful visualizations
-- Document and communicate data-cleaning processes clearly
-
-#### Key Skills Showcased in This Project
-- Data Cleaning with Pandas  
-- Tidy Data Principles  
-- Exploratory Data Analysis  
-- Visualization using Matplotlib/Seaborn  
-- Markdown Documentation in Jupyter Notebooks
 
 ## NER Streamlit App
 [Link to Project Page on GitHub](https://github.com/paulinaturner/TURNER-Python-Portfolio/blob/07f37726645a6b28a97a4120f77daf6cc2ad9734/NERStreamlitApp/NERStreamlitApp.py)
@@ -48,10 +28,13 @@ This Streamlit application is a custom Named Entity Recognition (NER) tool built
 ### How This Project Enhances My Coding Portfolio
 This project demonstrates my ability to integrate natural language processing techniques into an interactive front-end experience using Streamlit. It complements my portfolio by showcasing skills in:
 
-- Web app development
-- NLP customization with spaCy
-- Real-time user input handling
-- Pattern-based matching and visualization
+   Web app development
+   
+   NLP customization with spaCy
+   
+   Real-time user input handling
+   
+   Pattern-based matching and visualization
 
 #### Key Skills Showcased in This Project
 - spaCy NLP  
@@ -59,3 +42,24 @@ This project demonstrates my ability to integrate natural language processing te
 - Pattern Matching with EntityRuler  
 - Interactive UI/UX Design  
 - Requirements Management and App Deployment
+
+## StreamlitApp Final, CLV Calculator
+[Link to Project Page on GitHub](https://github.com/paulinaturner/TURNER-Python-Portfolio/tree/main/StreamlitAppFinal)
+
+### Description:
+This interactive Streamlit app helps users estimate Customer Lifetime Value (CLV) based on inputs like customer behavior, product type, and financial assumptions. It supports both individual customer analysis and batch processing via CSV upload. The app also provides decision-support messages based on the calculated CLV and acquisition cost.
+
+### How This Project Enhances My Coding Portfolio
+This project reflects my ability to build interactive Python applications with:
+- Real-time user interaction
+- NLP customization
+- Clean UX/UI layout using Streamlit
+
+It demonstrates my growing expertise in natural language processing, user-centric design, and deploying functional tools for exploratory text analysis.
+#### Key Skills Showcased in This Project
+- Streamlit App Development  
+- Natural Language Processing with spaCy  
+- EntityRuler Pattern Matching  
+- User Interface Design  
+- Python Logic & State Management  
+
