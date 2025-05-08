@@ -58,12 +58,11 @@ This project reflects my ability to build interactive Python applications with:
 - Real-time user interaction
 - NLP customization
 - Clean UX/UI layout using Streamlit
-
 It demonstrates my growing expertise in natural language processing, user-centric design, and deploying functional tools for exploratory text analysis.
-#### Key Skills Showcased in This Project
-   Streamlit App Development  
-   Natural Language Processing with spaCy  
-   EntityRuler Pattern Matching  
-   User Interface Design  
-   Python Logic & State Management  
+   #### Key Skills Showcased in This Project
+      Streamlit App Development  
+      Natural Language Processing with spaCy  
+      EntityRuler Pattern Matching  
+      User Interface Design  
+      Python Logic & State Management  
 
