@@ -1,5 +1,25 @@
 # TURNER-Python-Portfolio
 This repository will serve as my portfolio to showcase my projects, mini-projects, and overall Python Skills. It will be ordered by descending date and will include models and EDAs. 
+
+## Basic Streamlit App
+[Link to Project Portfolio Page on GitHub](https://github.com/paulinaturner/TURNER-Python-Portfolio/tree/main/basic-streamlit-app)
+### Description:
+This simple Streamlit app allows users to explore the Palmer Penguins dataset interactively. It displays the full dataset and enables users to filter penguins by bill length using a slider. The app is designed as an introduction to Streamlit's core features, including layout, user input, and live data display.
+Link to Python file.
+
+### How This Project Enhances the Portfolio
+This project reflects my ability to build and deploy interactive web apps using Streamlit. It demonstrates essential skills in loading real-world data, enabling dynamic user interaction through widgets, and structuring clean data displays. As a foundational Streamlit project, it helped solidify my understanding of user-centered data tools.
+   #### Key Skills Showcased
+      Streamlit Layout and Widgets
+      
+      Interactive Filtering with Sliders
+      
+      CSV Data Loading and Display
+      
+      Real-time DataFrame Filtering
+      
+      Introductory Web App Development with Python
+
 ## Tidy Data Project
 [Link to Project Page on Github](https://github.com/paulinaturner/TURNER-Python-Portfolio/tree/main/TidyData-Project) 
 ### Description:
@@ -43,7 +63,7 @@ This project demonstrates my ability to integrate natural language processing te
 - Interactive UI/UX Design  
 - Requirements Management and App Deployment
 
-## StreamlitApp Final, CLV Calculator
+## Streamlit App Final, CLV Calculator
 [Link to Project Page on GitHub](https://github.com/paulinaturner/TURNER-Python-Portfolio/tree/main/StreamlitAppFinal)
 
 ### Description:
