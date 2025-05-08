@@ -63,13 +63,13 @@ App outputs:
 ## Visual Examples
 
 **Main App Interface**  
-_Screenshot placeholder_
+(CLVPic1.png)
 
-**CLV Charts Output**  
-_Screenshot placeholder_
+**CLV Charts Output** 
+(CLVPic2.png)
 
-**CSV Upload and Table Preview**  
-_Screenshot placeholder_
+**CLV Comparison**  
+(CLVPic3.png)
 
 ---
 
