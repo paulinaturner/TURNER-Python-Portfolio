@@ -11,20 +11,6 @@ Named Entity Recognition is widely used in news filtering, resume parsing, and m
 ### Description:
 This app highlights spaCy’s powerful Named Entity Recognition functionality, specifically through the use of the `EntityRuler` pipeline component. Users can define custom entities by specifying both labels (e.g., BRAND, SCHOOL) and matching patterns (e.g., “Purely Pressed”, “Notre Dame”), and then immediately see those entities recognized and visualized in a user-friendly interface.
 
-### How This Project Enhances My Coding Portfolio
-This project reflects my ability to build interactive Python applications with:
-- Real-time user interaction
-- NLP customization
-- Clean UX/UI layout using Streamlit
-
-It demonstrates my growing expertise in natural language processing, user-centric design, and deploying functional tools for exploratory text analysis.
-
-#### Key Skills Showcased in This Project
-- Streamlit App Development  
-- Natural Language Processing with spaCy  
-- EntityRuler Pattern Matching  
-- User Interface Design  
-- Python Logic & State Management  
 
 ---
 
