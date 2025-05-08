@@ -28,14 +28,10 @@ This project reflects my ability to build and deploy interactive web apps using 
 
 3. Navigate to the project folder in your terminal:
 ```bash
-Copy
-Edit
 cd basic-streamlit-app
 
 4. Launch the app using:
 
 ```bash
-Copy
-Edit
 streamlit run main.py
 
