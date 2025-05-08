@@ -62,14 +62,9 @@ App outputs:
 
 ## Visual Examples
 
-**Main App Interface**  
-(CLVPic1.png)
-
-**CLV Charts Output** 
-(CLVPic2.png)
-
-**CLV Comparison**  
-(CLVPic3.png)
+![Main App Interface](CLVPic1.png) 
+![CLV Chart Output](CLVPic2.png)
+![CLV Comparison](CLVPic3.png)
 
 ---
 
