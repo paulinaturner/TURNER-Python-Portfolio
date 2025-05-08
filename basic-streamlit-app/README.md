@@ -2,7 +2,9 @@
 
 ## Description
 
-This simple Streamlit app allows users to explore the Palmer Penguins dataset interactively. It displays the full dataset and enables users to filter penguins by bill length using a slider. The app is designed as an introduction to Streamlit's core features including layout, user input, and live data display.
+This simple Streamlit app allows users to explore the Palmer Penguins dataset interactively. It displays the full dataset and enables users to filter penguins by bill length using a slider. The app is designed as an introduction to Streamlit's core features, including layout, user input, and live data display.
+
+   [Link to Python file](fadfa). 
 
 ## How This Project Enhances the Portfolio
 
